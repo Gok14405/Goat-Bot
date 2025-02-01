@@ -1,9 +1,9 @@
 {
-	"email": "",
-	"password": "",
+	"email": "wrldcrazy86@gmail.com",
+	"password": "odhiambo",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
+	"adminBot": [61564908368733],
+	"nickNameBot": "phinax bot",
 	"prefix": "#",
 	"database": {
 		"type": "local",
